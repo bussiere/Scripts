@@ -46,12 +46,9 @@ def maxheure(debut,pausemidi="0:45",total="10:00"):
 
 
 	
-print horaire("9:00")
-print entrop("19:00","09:00")
-
-
-# print additionheure("10:50","8:15")
-# print maxheure("7:30")
+print horaire("9:30",pausemidi="00:45")
+print additionheure("09:30","8:15")
+print maxheure("9:30")
 
 
 
