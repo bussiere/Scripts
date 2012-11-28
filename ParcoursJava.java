@@ -53,6 +53,17 @@ public class ParcoursJava
     {
         try
         {
+            ArrayList<String> tabFichier = new ArrayList();
+            tabFichier.add("AffichageApplicationFormAction.java");
+            tabFichier.add("ChoixApplicationFormAction.java");
+            tabFichier.add("ChoixAttributionFormAction.java");
+            tabFichier.add("ChoixPerimetreFormAction.java");
+            tabFichier.add("ChoixUidFormAction.java");
+            tabFichier.add("DemandeEditionFormAction.java");
+            tabFichier.add("MigrerApplicationFormAction.java");
+            tabFichier.add("ModificationApplicationFormAction.java");
+            tabFichier.add("CreationApplicationFormAction.java");
+            tabFichier.add("RechercheTracePersonneFormAction.java");
             Pattern p = Pattern.compile(".*(\\w[ \\t\\r\\n\\v\\f]((\\w\\w)|(\\w))[ \\t\\r\\n\\v\\f]).*[\\;|\\=].*");
             Matcher m = p.matcher(ligne);
             while (m.find())
@@ -64,6 +75,15 @@ public class ParcoursJava
                     writer = new FileWriter("output.txt", true);
                     writer.write(ligne + ":" + fichier + ":" + numeroLigne+"\r\n\r\n");
                     writer.close();
+                    for (String fi : tabFichier)
+                    {
+                        if (fichier.matches(fi))
+                        {
+                            writer = new FileWriter("output2.txt", true);
+                            writer.write(ligne + ":" + fichier + ":" + numeroLigne+"\r\n\r\n");
+                            writer.close();
+                        }
+                    }
                 }
                 catch (IOException e)
                 {
