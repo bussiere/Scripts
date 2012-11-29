@@ -1,0 +1,20 @@
+Yes, you can do something like this.
+
+# write new object to the object database, record its id
+obj_id=$(echo hello world | git hash-object --stdin -w)
+
+# add the new file to the index as 'hello.txt'
+git update-index --add --cacheinfo 100644 $obj_id hello.txt
+
+# Make a new commit adding the new file
+git commit -m "Add new file"
+share|edit|flag
+answered 14 hours ago
+
+Charles Bailey
+148k24205343
+Could you explain me the 100644 please ? And it seems to be this the solution thanks. – user462794 14 hours ago 
+1	
+ 	
+It's the mode parameter for a non-executable regular file. git help update-index – Charles Bailey 14 hours ago
+add comment
