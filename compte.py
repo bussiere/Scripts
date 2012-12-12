@@ -1,2 +1,2 @@
-somme = 46
-total = {"nuit elas":13,"diner":15}
+total = 90 + 50 + 10 - 90 - 40 + 30 -10 -10 
+print total
