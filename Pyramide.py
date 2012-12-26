@@ -1,3 +1,9 @@
+
+import sqlite3 as lite
+import sys
+
+con = lite.connect('pays.db')
+
 pyramide = """
 Afghanistan    0-14 years: 43.2% (male 6,671,683/ female 6,460,034) 
 15-64 years: 54.4% (male 8,414,716/ female 8,121,616) 
@@ -715,7 +721,9 @@ Zimbabwe    0-14 years: 40.6% (male 2,585,086/ female 2,532,927)
 15-64 years: 55.7% (male 3,374,546/ female 3,659,339) 
 65 years and over: 3.7% (male 193,148/ female 274,554) (2012 est.)
 """
-
+cur = con.cursor()    
+cur.execute("DROP TABLE IF EXISTS pays")
+cur.execute("CREATE TABLE Pays(Id INT, Name TEXT, Price INT)")
 p = pyramide.split("    0-14 years")
 total = []
 for i in p :
