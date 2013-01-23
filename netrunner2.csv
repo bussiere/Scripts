@@ -1,0 +1,491 @@
+'No.';'Card Name';'Cost';'Str';'Type';'Rules';'Flavor Text';'Rarity';'Artist'
+1;'Afreet';2;'';'Program-Daemon-1 MU';'Afreet can have up to 3 MU of programs installed in it. All icebreakers installed in Afreet have their strength reduced by 1. If Afreet leaves play, trash all programs installed in it.';;'U';'Mike Kimble'
+2;'AI Boon';12;'*';'Program-Icebreaker-Random-1 MU';'[1]: Break sentry subroutine.
+[1]: +1 strength.
+At the start of each run, roll a die to determine AI Boon''s strength * for that run.';'"Everything was going great until a Viral 18 wiped the instruction manual."';'R';'Higgins & King'
+3;'Baedeker''s Net Map';1;'';'Program-Base Link-1 MU';'[0]: Base link 1
+[1]: +1 link';'"I knew I should have taken the left region from Albuquerque!"';'C';'Douglas Shuler'
+4;'Bakdoor™';2;'';'Program-Base Link-2 MU';'[0]: Base link 3
+[2]: +1 link';;'U';'Kevin Taylor'
+5;'Bartmoss Memorial Icebreaker';5;0;'Program-Icebreaker-Random-1 MU';'[1]: Break ice subroutine.
+[1]: +1 strength
+After passing each piece of ice, roll a die if you used Bartmoss Memorial Icebreaker to break any subroutines of that ice. On a 1, trash Memorial Icebreaker.';;'R';'Ash Arnett'
+6;'Black Dahlia';10;5;'Program-Icebreaker-Killer-1 MU';'[2]: Break sentry subroutine.
+[2]: +1 strength';'"She broke my heart - but at least she showed it to me first."';'V';'Maria P. Cabardo'
+7;'Blink';5;5;'Program-Icebreaker-Random-1 MU';'[0]: Roll a die. On a 4, 5, or 6, break ice subroutine; otherwise, suffer that much Net damage. Use this ability only once on each subroutine during each encounter with a piece of ice.';;'U';'Dave Pilurs'
+8;'Boardwalk';0;'';'Program-Virus-1 MU';'Whenever you make a successful run on HQ, give the Corp a Boardwalk counter. At the start of each of your turns, every two Boardwalk counters require the Corp to show you, at random, a card stored in HQ. If the Corp does not have enough cards stored in HQ, the Corp shows you as many cards as it has.';;'U';'Sue Ann Harkey'
+9;'Butcher Boy';2;'';'Program-Virus-1 MU';'Whenever you make a successful run on HQ, give the Corp a Butcher Boy counter. Every two Butcher Boy counters gain you [1] at the start of each of your turns.';;'U';'Norm Dwyer'
+10;'Cascade';4;'';'Program-Virus-1 MU';'Whenever you make a successful run on R&D, give the Corp a Cascade counter. Every two Cascade counters require the Corp to trash faceup one card stored in R&D, at the start of each of its turns.';;'U';'Douglas Shuler'
+11;'Cloak';7;'';'Program-Stealth-1 MU';'Put [3] from the bank on Cloak when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn.';'"Avoid a netfight if at all possible. You never know when fortune will turn." - Spider Murphy';'C';'Douglas Shuler'
+12;'Clown';4;'';'Program-1 MU';'All ice is encountered with its strength reduced by 1.';;'C';'Mark Collen'
+13;'Cockroach';0;'';'Program-Virus-1 MU';'Whenever you make a successful run on HQ, give the Corp a Cockroach counter. Two or more Cockroach counters cause all discards from HQ to become random.';;'U';'Norm Dwyer'
+14;'Codecracker';2;0;'Program-Icebreaker-1 MU';'[0]: Break code gate subroutine.
+[1]: +1 strength';'This product for use by holder of class-A locksmith certification. Propagation of this software and use without proper certification are felony offenses. ("Yeah, right.")';'V';'Douglas Shuler'
+15;'Codeslinger';7;3;'Program-Icebreaker-Killer-1 MU';'[1]: Break sentry subroutine.';'"There ain''t enough bits in this here register fer the both of us, pardner."';'V';'Tony Luke'
+16;'Cyfermaster™';4;5;'Program-Icebreaker-1 MU';'[2]: Break code gate subroutine.
+[1]: +1 strength';'You can pick a lock; you can pick your friends. Now, thanks to Cyfermaster ...';'V';'Mark Poole'
+17;'Deep Thought';0;'';'Program-Virus-1 MU';'Whenever you make a successful run on R&D, give the Corp a Thought counter. Three or more Thought counters allow you to look at the top card of R&D at the start of each of your turns.';;'R';'Norm Dwyer'
+18;'Dogcatcher';3;3;'Program-Icebreaker-1 MU';'[1]: Break pit bull, hellhound, bloodhound, or watchdog subroutine.
+[1]: +1 strength';;'U';'James Allen Higgins'
+19;'Dropp™';3;4;'Program-Icebreaker-1 MU';'[0]: Break ice subroutine.
+[1]: +1 strength
+Using Dropp™ ends your run.';;'U';'Todd Wade'
+20;'Dupré';1;0;'Program-Icebreaker-1 MU';'[1]: Break code gate subroutine.
+[2]: +1 strength
+Put a +1 strength counter on Dupré after each run during which it was used to break a subroutine. All strength counters on Dupré are lost if you use Dupré on a fort other than the one you last used it on.';;'R';'Robert McLees'
+21;'Dwarf';6;3;'Program-Icebreaker-Worm-1 MU';'[1]: Break wall subroutine.
+[1]: +1 strength';;'C';'Norm Dwyer'
+22;'Emergency Self-Construct';0;'';'Program-1 MU';': Prevent yourself from being flatlined, though you still lose all cards in your hand. Remove all brain damage. For the remainder of the game, you have only three actions per turn, instead of four; your hand size is reduced by 1; and all meat damage is automatically prevented.';;'R';'Mark Poole'
+23;'Evil Twin';6;3;'Program-Icebreaker-Killer-1 MU';'[3]: Break sentry subroutine.
+[1]: +1 strength
+Prevents up to 2 Net and/or brain damage total each turn.';'"Haven''t I seen you somewhere before?"';'R';'Mark Tedin'
+24;'Expert Schedule Analyzer';0;'';'Program-1 MU';'After you access cards from HQ, look at all cards stored in HQ.';;'U';'Douglas Shuler'
+25;'Fait Accompli';1;'';'Program-Virus-1 MU';'Whenever you make a successful run on a subsidiary data fort, put a Fait counter in that fort. Every two Fait counters in a fort give +1 difficulty to all agendas installed inside that fort.';;'U';'Kevin Taylor'
+26;'False Echo';0;'';'Program-1 MU';'[2]: The Corp must rez as much ice as possible on a fort, beginning with the outermost ice and working in. Use this ability only after a successful run on that fort.';;'R';'Pete Venters'
+27;'Flak';4;2;'Program-Icebreaker-1 MU';'[1]: Break AP subroutine.
+[1]: +1 strength';;'U';'Mark Collen'
+28;'Force Shield';2;'';'Program-1 MU';'Prevents up to 2 Net and/or brain damage total each turn.';'"Never use ''em; don''t need ''em. My brain''s been smoked so much that my myelin''s vulcanized. That''s why my ears are always dirty." - Rache Bartmoss';'C';'Douglas Shuler'
+29;'Gremlins';2;'';'Program-Virus-1 MU';'Whenever you make a successful run on HQ, give the Corp a Gremlin counter. Every two Gremlin counters decrease the Corp''s hand size by 1.';;'U';'Douglas Shuler'
+30;'Grubb';0;0;'Program-Icebreaker-Worm-1 MU';'[1]: Break wall subroutine.
+[2]: +1 strength for the remainder of this run';'"Is it really more nauseating than Worm?" "You''ve got to see it to believe it."';'U';'Norm Dwyer'
+31;'Hammer';2;2;'Program-Icebreaker-Noisy-1 MU';'[1]: Break wall subroutine.
+[1]: +1 strength.
+Whenever you break a wall subroutine with Hammer, lose a total of [2] from stealth cards.';;'V';'Mark Poole'
+32;'I Spy';0;'';'Program-1 MU';': Put a Spy counter in a data fort. A Spy counter exposes all cards installed inside or on a fort containing it. The Corp may remove a Spy counter by taking an action to pay [4]. Use this ability only immediately after a successful run on that fort.';;'U';'Mark Poole'
+33;'Imp';0;'';'Program-Daemon-1 MU';'Imp can have up to 2 MU of programs installed in it. All icebreakers installed in this way have their strength reduced by 1. If Imp leaves play, trash allprograms installed in it.';;'U';'Mike Kimble'
+34;'Incubator';0;'';'Program-Virus-Random-1 MU';'Whenever you make a successful run, give the Corp an Incubate counter. Each Incubate counter necessitates a die roll at the start of each of your turns; on each 6, choose a Virus counter and exchange that counter for two counters of the same type.';;'R';'Norm Dwyer'
+35;'Invisibility';0;'';'Program-Stealth-1 MU';'Put [1] from the bank on Invisibility when it is installed. Use this bit only to pay for usingicebreakers during runs, but not for using noisyicebreakers. If you use the bit, replace it at the start of your next turn.';;'C';'Mark Tedin'
+36;'Jackhammer';1;0;'Program-Icebreaker-Noisy-1 MU';'[0]: Break wall subroutine.
+[1]: +1 strength
+Whenever you break a wall subroutine with Jackhammer, lose [1], if you can, from a stealth card.';;'V';'Norm Dwyer'
+37;'Japanese Water Torture';7;2;'Program-Icebreaker-1 MU';'[0]: Break wall subroutine.
+[X]: +X strength, and forgo your next X actions.';;'R';'Jonnie Wilder'
+38;'Joan of Arc';0;'';'Program-1 MU';': Prevent one or more of your other installedprograms from being trashed.
+[1]: Prevent one or more of your other installedprograms from being trashed, and bring Joan of Arc into your hand.';;'R';'John Casebeer'
+39;'Krash';0;0;'Program-Icebreaker-1 MU';'[2]: Break ice subroutine.
+[2]: +1 strength';;'U';'Jonnie Wilder'
+40;'Loony Goon';4;0;'Program-Icebreaker-Killer-1 MU';'[1]: Break sentry subroutine.
+[1]: +1 strength';'"Of course you realize ... this means war."';'V';'Tony Luke'
+41;'Microtech AI Interface';0;'';'Program-1 MU';'Whenever you are about to access cards from R&D, you may first choose to cut any number of cards from the top of R&D to the bottom of R&D.';;'R';'Douglas Shuler'
+42;'Mouse';2;'';'Program-Detection-1 MU';': Expose a card installed inside a data fort.';'"If a man . . . make a better mousetrap than his neighbour, tho'' he build his house in the woods, the world will make a beaten path to his door." - Ralph Waldo Emerson, quoted by Sarah S.B. Yule, Borrowings';'U';'Mark Collen'
+43;'Mystery Box';3;'';'Program-1 MU';'[0]: Show the top five cards of your stack to the Corp. If any of those cards are programs, trash Mystery Box and then install one of thoseprograms, at no cost. Shuffle your stack afterwards. Use this ability only during a run and only once each run.';;'R';'Kevin Taylor'
+44;'Netspace Inverter';0;'';'Program-1 MU';'Reverse a fort''s ice cards so that the outermost piece of ice becomes the innermost piece of ice, and so forth. Use this ability only immediately after a successful run on that data fort.';;'R';'Mark Collen'
+45;'Newsgroup Filter';5;'';'Program-2 MU';': Gain [2].';'You can find some useful stuff in the newsgroups if you can enlist an AI with the patience to wade through all the garbage.';'U';'Sue Ann Harkey'
+46;'Pattel''s Virus';1;'';'Program-Virus-1 MU';'Whenever you make a successful run, put a Pattel counter on a piece of ice that had all its subroutines broken during that run. Each Pattel counter on a piece of ice reduces its strength by 1.';;'U';'Sue Ann Harkey'
+47;'Pile Driver';1;7;'Program-Icebreaker-Noisy-1 MU';'[3]: Break up to four wall subroutines on a single piece of ice.
+[1]: +1 strength.
+Whenever you use Pile Driver''s break-walls subroutine, lose a total of [3], from stealth cards.';;'V';'Norm Dwyer'
+48;'Poltergeist';0;'';'Program-1 MU';'Put [2] on Poltergeist when it is installed. Use these bits only to pay for trashing nodes. If you use any of these bits, replace them at the start of your next turn.';;'R';'Mark Tedin'
+49;'Pox';0;'';'Program-Virus-1 MU';'Whenever you make a successful run, put a Pox counter in the fort that was run. Every two Pox counters in a fort require the Corp to pay [1], in addition to any other costs, to install a card inside or on that fort.';;'U';'Norm Dwyer'
+50;'R&D-Protocol Files';0;'';'Program-1 MU';': Make a run on R&D, but instead of accessing cards, look at the top five cards of R&D.';;'U';'Douglas Shuler'
+51;'Rabbit';0;'';'Program-1 MU';'Ice that attempts to trace you has its trace limit reduced by 1.';;'U';'Mark Collen'
+52;'Raffles';7;4;'Program-Icebreaker-1 MU';'[1]: Break code gate subroutine.
+[2]: +1 strength';;'V';'Mark Collen'
+53;'Ramming Piston';4;5;'Program-Icebreaker-Noisy-1 MU';'[2]: Break wall subroutine.
+[1]: +1 strength
+Whenever you break a wall subroutine with Ramming Piston, lose a total of [2] from stealth cards.';;'V';'Norm Dwyer'
+54;'Raptor';1;1;'Program-Icebreaker-Killer-1 MU';'[2]: Break sentry subroutine.
+[1]: +1 strength';'"There''s nothing quite like the screech of a Raptor echoing through the data halls as it sweeps in for a kill." -Kiyote';'V';'Higgins & King'
+55;'Reflector';2;4;'Program-Icebreaker-1 MU';'[0]: Break stun, hellbolt, or knockout subroutine.';'"This icebreaker is basically a last-ditch defense for when your Killers aren''t getting the job done. It takes advantage of a design flaw in these sorts of ice to reflect their unique signals back at them, crashing their detection routines." - Digital Dana';'R';'Kevin Taylor'
+56;'Replicator';5;2;'Program-Icebreaker-1 MU';'[0]: Break ice subroutine that traces.
+[1]: +1 strength';;'U';'Lawrence Brown'
+57;'Scatter Shot';0;'';'Program-1 MU';'Put [2] from the bank on Scatter Shot when it is installed. Use these bits only to pay for trashingupgrades. If you use any of these bits, replace them at the start of your next turn.';;'R';'Mark Collen'
+58;'SeeYa';3;'';'Program-Detection-1 MU';', [1]: Expose an installed card.';'"It''s like a pair of magic specs." - Urza Bloodrunner';'C';'Mark Collen'
+59;'Self-Modifying Code';2;'';'Program-2 MU';': Search your stack for a program and install that program, if you can. Shuffle your stack afterwards. Use this ability only during a run.';'"Now, if I could just do this with my DNA ... on the fly ... while eating." - Rache Bartmoss';'R';'Jonnie Wilder'
+60;'Shaka';4;2;'Program-Icebreaker-Killer-1 MU';'[1]: Break sentry subroutine.
+[2]: +1 strength';;'V';'Tony Luke'
+61;'Shield';0;'';'Program-1 MU';'Prevents up to 2 Net damage each turn.';'Practice safe hacks: use Spartan* shields.';'C';'Kevin Taylor'
+62;'Shredder Uplink Protocol';4;'';'Program-2 MU';': Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, treat run as a successful run on HQ.';'"Gives a whole new meaning to the term ''trashing.''"';'U';'Douglas Shuler'
+63;'Signpost';2;'';'Program-1 MU';'[1]: +2 link. Use this ability only once during each trace attempt, and only after you and the Corp have revealed how much each of you spent.';;'U';'Mark Collen'
+64;'Skivviss';3;'';'Program-Virus-1 MU';'Whenever you make a successful run on R&D, give the Corp a Skivviss counter. Each Skivviss counter requires the Corp to draw one extra card at the start of each of its turns.';;'U';'Mike Kimble'
+65;'Smarteye';2;'';'Program-Detection-1 MU';'Once during each run, you may expose a piece of unrezzed ice as you approach it. You may then jack out before the Corp decides whether to rez theice.';;'C';'Mark Poole'
+66;'Snowball';10;0;'Program-Icebreaker-Killer-1 MU';'Snowball has +1 strength for each subroutine it has broken during a run, until the end of that run.
+[1]: Break sentry subroutine.
+[1]: +1 strength';;'R';'Maria P. Cabardo'
+67;'Speed Trap';0;'';'Program-Detection-1 MU';'[0]: Jack out before an upgrade or node takes effect. Use this ability only immediately after the Corp has rezzed that upgrade or node.';'This program is solely intended for emergency extrication from hazards presented during inadvertent trespass; it in no way is intended to encourage willful trespass or other illegal action. ("Yeah, right.")';'U';'Mark Collen'
+68;'Startup Immolator';0;'';'Program-1 MU';': Pay the rez cost of a piece of ice to trash that piece of ice. Use this ability only if you have just broken all the subroutines of that piece of ice.';;'U';'Mark Collen'
+69;'Succubus';3;'';'Program-Daemon-1 MU';'Succubus can have up to 3 MU of programsinstalled in it. If Succubus leaves play, trash allprograms installed in it.';'"Hey, server ..."';'R';'Anson Maddocks'
+70;'Tinweasel';5;3;'Program-Icebreaker-1 MU';'[0]: Break code gate subroutine.';'"Why, yes, I do speak fluent Navajo."';'V';'Mark Collen'
+71;'Vewy Vewy Quiet';4;'';'Program-Stealth-1 MU';'Put [2] from the bank on Vewy Vewy Quiet when it is installed. Use these bits only to pay for usingicebreakers during runs, but not for using noisyicebreakers. If you use any of these bits, replace them at the start of your next turn.';'"You know what I like? Sneaking all the way in, and then barking all the way out!" - Dog';'C';'Kevin Taylor'
+72;'Wild Card';0;0;'Program-Icebreaker-Killer-1 MU';'[0]: Break sentry subroutine.
+[3]: +1 strength';'The survival of Al Capone''s cronies into cyberspace has almost spiritual significance to many runners.';'V';'Tony Luke'
+73;'Wizard''s Book';5;2;'Program-Icebreaker-1 MU';'[0]: Break code gate subroutine.
+[2]: +1 strength';'Voluntas vincit omnia.';'V';'Maria P. Cabardo'
+74;'Worm';4;2;'Program-Icebreaker-Worm-1 MU';'[0]: Break wall subroutine.
+[3]: +1 strength';'"It''s hard to describe - but don''t eat anything just before you watch it go into action."';'V';'Anson Maddocks'
+75;'Zetatech Software Installer';0;'';'Program-1 MU';'Put [2] on Software Installer when it is installed. Use these bits only to pay for installing programs. You may use these bits to install a programoverwriting Software Installer itself. If you use any of these bits, replace them at the start of your next turn.';;'U';'Douglas Shuler'
+76;'All-Nighter';0;'';'Prep';'Make a run; whether or not that run is successful, you may then make another run.';'"Of course, you start to hallucinate if you string too many of these together."';'C';'Christina Wald'
+77;'Anonymous Tip';3;'';'Prep-Sabotage';'Derez a piece of black ice of your choice.';'"Netwatch doesn''t take hints about corporate infractions. If you really want them to apply some heat to a patch of black ice, get a Hellhound to follow your link back to their offices."';'R';'Margaret Organ-Kean'
+78;'Arasaka Owns You';0;'';'Prep';'Do not play Arasaka Owns You as a normal action; instead, play it when you would suffer enough damage to flatline you. Prevent all of that damage, trash Arasaka Owns You, remove any brain damage you have suffered, and then refresh your hand to its maximum size. Gain [10] and remove all tags, at no cost. You forgo your next four actions, and you forfeit the next 3 agenda points you score.';;'R';'Craig Gilmore'
+79;'Bodyweight™ Synthetic Blood';2;'';'Prep';'Draw five cards.';;'U';'Anthony Judge'
+80;'Core Command: Jettison Ice';0;'';'Prep-Sabotage';'Play only if you made a successful run on HQ this turn. Pay the rez cost of a piece of rezzed ice to trash it.';;'U';'Kevin Stein'
+81;'Custodial Position';2;'';'Prep';'Make a run on R&D. If run is successful, access two additional cards from R&D.';;'C';'James Allen Higgins'
+82;'Deal with Militech';0;'';'Prep';'Play only if you liberated any Research agendasthis turn. Put a Militech counter on each of youricebreakers. A Militech counter gives theicebreaker it is on +1 strength.';;'R';'Pete Venters'
+83;'Desperate Competitor';0;'';'Prep';'Play only if you liberated any Gray Ops agendasthis turn. Score 1 agenda point.';'"We appreciate that you''ve already promised this property to someone else, and we wouldn''t expect you to compromise your honor without proper compensation."';'R';'Craig Gilmore'
+84;'Edited Shipping Manifests';1;'';'Prep-Sabotage';'Make a run on HQ. If run is successful, and the Corp has any bits when you would access HQ, do not access cards from HQ; instead, the Corp loses [1] and gives you a tag, and you gain [10].';'"It''s another delivery to that warehouse in Chiba for Smith. What does he do with all that product?"';'C';'Dave Pilurs'
+85;'Executive Wiretaps';2;'';'Prep';'Make a run on HQ. If run is successful, access two additional cards from HQ.';;'C';'Mark Collen'
+86;'Forged Activation Orders';1;'';'Prep-Sabotage';'Choose a piece of ice. The Corp either rezzes that piece of ice or trashes it.';;'R';'Dave Pilurs'
+87;'Forgotten Backup Chip';0;'';'Prep';'Search your trash for a program and bring it into your hand.';'"Solo teams are a crap shoot: sometimes they kill you; on the other hand, sometimes you find neat stuff while hiding in your flat."';'C';'Randy Gallegos'
+88;'Fortress Respecification';0;'';'Prep-Sabotage';'Play only if you made a successful run this turn. Rearrange the ice installed on the last fort on which you made a successful run. This does not expose any concealed ice.';;'R';'Dave Pilurs'
+89;'Gideon''s Pawnshop';2;'';'Prep';'Search your trash for a card and bring it into your hand.';'"The runner stuff''s cheap ''cause their next of kin don''t know what it''s worth any better than the shop owners do."';'C';'Mark Collen'
+90;'Hot Tip for WNS';0;'';'Prep';'Score 1 agenda point if you liberated any Black Ops agendas this turn.';'"A plot to assassinate Elvis - bizarre but true, and we''ll tell you all about it at eleven."';'R';'Sue Ann Harkey'
+91;'Hunt Club BBS';1;'';'Prep-BBS';'Expose up to three installed cards.';'"The Hunt Club got it''s name from the original programmers, who were self-described ''hunters,'' corporate programmers who moonlighted as freelance counter-intrusion agents." - Rache Bartmoss';'C';'Anthony Petrarca'
+92;'Ice and Data''s Guide to the Net';0;'';'Prep';'Expose the outermost ice of each data fort.';'"Meet the ice without hitting the skids." - Advert';'U';'Sue Ann Harkey'
+93;'If You Want It Done Right...';0;'';'Prep';'Look through the top five cards of your stack. Bring one of those cards into your hand, and arrange the rest in any order you choose.';'"... you gotta do it yourself."';'C';'Zak Plucinski'
+94;'Inside Job';2;'';'Prep';'Make a run. You automatically pass the first piece of ice you encounter during that run.';'"Preparation beats expiration, if you ask me." - Edger';'U';'Ernie Chan'
+95;'Jack ''n'' Joe';0;'';'Prep';'Draw three cards.';'"There''s too much blood in my caffeine system."';'C';'Pete Venters'
+96;'Kilroy Was Here';0;'';'Prep-Sabotage';'Make a run on R&D; you may trash, at no cost, any cards you access that were stored in R&D, even if the cards cannot normally be trashed.';'"Art is a form of catharsis."';'U';'Sue Ann Harkey'
+97;'Livewire''s Contacts';0;'';'Prep';'Gain [3].';'"Let''s get something clear, punk. Out there, you might be a big-shot chiphead with your uptown inputs, but down here you''re just another skinny geek from the wrong side of the barricades. So sit down, buy me a Fizz, and let me do all the talking."';'C';'Lawrence Snelly'
+98;'Lucidrine™ Booster Drug';0;'';'Prep';'Make a run, and gain [9], which you may use only during that run. After that run is completed, suffer 1 brain damage; this damage cannot be prevented. Then, return to the bank any of the [9] not spent.';;'U';'Pete Venters'
+99;'Mantis, Fixer-at-Large';3;'';'Prep';'Search your stack for a card, and bring it into your hand. Reshuffle your stack afterwards.';'"Yeah, I can get it for you, and if you want me to break a few fingers, I''ll throw that in for free."';'C';'Ernie Chan'
+100;'misc.for-sale';0;'';'Prep-BBS';'Trash any number of your installed cards. Gain [3] for each card trashed in this way.';'"Why throw it away when you can convince some half-brained weef to use it for creative suicide instead?" - Rache Bartmoss';'R';'Robert McLees'
+101;'MIT West Tier';3;'';'Prep';'Shuffle your hand, trash, and stack together, and then draw five cards. When you play MIT West Tier, remove it from the game instead of trashing it.';;'R';'John Park'
+102;'Open-Ended® Mileage Program';0;'';'Prep';'Remove a tag, at no cost. You may pay [1] when you play Open-Ended® Mileage Program to take it back into your hand instead of trashing it.';;'C';'John Park'
+103;'Organ Donor';0;'';'Prep';'Trash up to five cards from your hand. Gain [2] for each card trashed in this way.';'"I really need the scratch, and well, I do have two of them... ."';'R';'Pete Venters'
+104;'Playful AI';1;'';'Prep-AI-Random';'Roll a die. On a 1, 2, or 3, gain that many bits, set aside that many dice to roll again, or choose some combination thereof. Repeat until you have rolled all the dice you set aside.';'"Gaming is a mode of transferring property without producing any intermediate good." - Samuel Johnson';'R';'Pete Venters'
+105;'Priority Wreck';0;'';'Prep-Sabotage';'Make a run on HQ. If run is successful, do not access cards from HQ; instead, pay any number of bits to force the Corp to lose that many bits.';'"Your personal icon is unrecognized, Chairman; I cannot process this file. Please input authorization code within - Thank you. Filename ''Suckers!'' overwrite of HQ datacore commencing as requested!"';'R';'Dave Pilurs'
+106;'Private LDL Access';0;'';'Prep';'Make a run on HQ. If run is successful, do not access cards from HQ; instead, treat run as a successful run on R&D.';;'U';'John Park'
+107;'Romp through HQ';2;'';'Prep-Sabotage';'Make a run on HQ; you may trash, at no cost, any cards you access that were stored in HQ, even if the cards cannot normally be trashed.';'"I love the sound of screaming crystal. Sadly, I seem to be the one to hear it." - Rache Bartmoss';'U';'Kevin Taylor'
+108;'Score!';5;'';'Prep';'Gain [9]';'"If someone has consistently good luck, it ain''t luck." - Spider Murphy';'C';'Zak Plucinski'
+109;'Security Code WORM Chip';0;'';'Prep-Sabotage';'Play only if you made a successful run on HQ this turn. Trash a piece of unrezzed ice.';;'U';'Robert McLees'
+110;'Sneak Preview';3;'';'Prep';'Choose a program from your trash or search your stack for a program. Install that program, at no cost. Shuffle your stack afterwards. At the end of the turn, take the program into your hand.';;'R';'Sue Ann Harkey'
+111;'Social Engineering';1;'';'Prep';'Hide at least 2 from your pool in your hand; the Corp then guesses how many bits you hid. If the Corp guesses correctly, lose that many bits. Otherwise, choose a data fort and a piece of iceon that fort. Then make a run on that fort, during which you automatically pass that piece of ice.';;'U';'Zak Plucinski'
+112;'Stumble through Wilderspace';2;'';'Prep';'Make a run. You have +9 link for every trace attempt made during that run.';'"So I guess what Wilderspace really is to me is the Net in the raw." - Edger, "Wilderspace is Nothing"';'R';'Sue Ann Harkey'
+113;'Synchronized Attack on HQ';4;'';'Prep';'Play only if you made a successful run on HQ this turn. The Corp discards all cards. The Corp can retain cards by paying [2] for each card not discarded.';'"You just take out the guards. Let me worry about the doors and elevators."';'R';'Craig Gilmore'
+114;'Temple Microcode Outlet';1;'';'Prep-BBS';'Search your stack for a program. Show thatprogram to the Corp, and then bring it into your hand. Reshuffle your stack afterwards.';;'C';'Dave Pilurs'
+115;'Terrorist Reprisal';2;'';'Prep';'Play only if the Corp scored any Black Opsagendas during its last turn. The Corp discards five cards at random.';'"So what did you tell Hiro when he asked if you''d accept half?" "I said, ''No problem. Which half of your daughter do you want back?"';'R';'Mark Collen'
+116;'Total Genetic Retrofit';3;'';'Prep';'Remove all tags, at no cost, and automatically avoid receiving your next tag.';'"Twenty years ago it would have been just a new set of fingerprints."';'R';'Doug Chaffee'
+117;'Valu-Pak Software Bundle';0;'';'Prep';'Gain up to five consecutive actions, which you may use only to install programs, and gain [1]. If you do not spend the bit during these actions, return it to the bank afterwards.';;'U';'John Park'
+118;'Weather-to-Finance Pipe';0;'';'Prep-Sabotage';'Make a run on HQ. If run is successful, do not access cards from HQ; instead, the Corp loses [4].';'Fractal weather system modeling is best routed to Accounts Receivable if you wanted to caused a stir; a route to Market Research is likely to go unnoticed.';'U';'Sue Ann Harkey'
+119;'Arasaka Portable Prototype';11;'';'Hardware-Deck';'Provides +3 MU. Installing Arasaka Portable Prototype costs 1 agenda point, in addition to the normal cost. Put [3] from the bank on Arasaka Portable Prototype when it is installed. Use these bits only to pay for using icebreakers during runs. If you use any of these bits, replace them at the start of your next turn.';;'R';'James Allen Higgins'
+120;'"Armadillo" Armored Road Home';2;'';'Hardware-Vehicle';'Put [2] from the bank on Armored Road Home when it is installed. Use these bits only to pay for removing tags. If you use any of these bits, replace them at the start of your next turn.
+: Prevent up to 3 meat damage.';;'U';'Norm Dwyer'
+121;'Armored Fridge';3;'';'Hardware';'Put seven Ablative counters on Armored Fridge when it is installed. When the last Ablative counter has been removed, trash Armored Fridge.
+Ablative counter: Prevent 1 meat damage.';'"I also once shut off the hot water line to my dishwasher and hid in there while it was running, but I''ll never do that again" - Rache Bartmoss';'U';'Kim Francisco'
+122;'Artemis 2020';10;'';'Hardware-Deck';'Provides +2 MU. Put [2] from the bank on Artemis 2020 when it is installed. Use these bits only to pay for using icebreakers during runs. If you use any of these bits, replace them at the start of your next turn.';;'U';'Doug Chaffee'
+123;'Bodyweight™ Data Crèche';3;'';'Hardware-Deck';'Provides +1 MU. Once per turn, right after making a successful run, you can choose to make another run without taking an action to do so.';'"I better hijack another order for a five-gallon saline feed ... I might be in here a while."';'R';'Pete Venters'
+124;'Corolla Speed Chip';1;'';'Hardware-Chip';'Put [1] from the bank on Corolla Speed Chip when it is installed. Use this bit only to pay for using killers during runs. If you use the bit, replace it at the start of your next turn.';;'C';'Lawrence Brown'
+125;'Dermatech Bodyplating';0;'';'Hardware-Cybernetics';'Prevents 1 meat damage each turn.';'"Is that the best you can do, corp boy?"';'U';'L.A. Williams'
+126;'"Drifter" Mobile Environment';0;'';'Hardware-Vehicle';'Put [2] from the bank on Mobile Environment when it is installed. Use these bits only to pay for removing tags. If you use any of these bits, replace them at the start of your next turn.';;'U';'Randy Gallegos'
+127;'Full Body Conversion';0;'';'Hardware-Cybernetics';'Prevents all meat damage. For each [1] the Corp pays when meat damage is done, 1 point of meat damage is not prevented by this card.';'"Don''t use any big words when you talk to him: he''s more hardware than wetware."';'R';'L.A. Williams'
+128;'"Green Knight" Surge Buffers';0;'';'Hardware';'Prevents 1 Net damage each turn.';;'C';'Lawrence Brown'
+129;'HQ Interface';4;'';'Hardware';'Whenever you access cards from HQ, access an additional card from HQ.';'"... from Arasaka to Cuernavaca to Oaxaca - to me the gear does come."';'C';'Lawrence Brown'
+130;'Lifesaver™ Nanosurgeons';1;'';'Hardware-Cybernetics';': Draw two cards. Use this ability only if you were damaged during any of your last three actions.
+: Prevent 1 brain damage.';;'R';'Douglas Shuler'
+131;'Microtech Backup Drive';0;'';'Hardware';'Whenever one or more installed programs are being sent to the trash at the same time, you may instead choose to put any or all of the programson top of Microtech Backup Drive in any order you choose. If Backup Drive is removed from play, trash any cards on it.
+: Bring the top card on Backup Drive into your hand.';;'C';'James Allen Higgins'
+132;'Microtech ''Trode Set';1;'';'Hardware';'Pay [1], in addition to the normal cost, to break eachice subroutine. Ignore all AP subroutines except those that trace, or that do Net damage. Prevents all but 1 Net damage from each AP subroutine you do not break.';;'R';'Randy Gallegos'
+133;'Militech MRAM Chip';2;'';'Hardware-Chip-Cybernetics';'Hand size +3';'"I have a hard time remembering, when the chips are down."';'U';'James Allen Higgins'
+134;'MRAM Chip';1;'';'Hardware-Chip-Cybernetics';'Hand size +2';'"Your brain''s just like any other appliance, chummer. Works better if you plug it in." -Joey Two-Tails';'U';'Doug Chaffee'
+135;'Nasuko Cycle';1;'';'Hardware-Vehicle';'[3]: Avoid receiving a tag.';'Puts the world into fast forward so you can skip the scenes that ain''t so pretty.';'V';'L.A. Williams'
+136;'Pandora''s Deck';6;'';'Hardware-Deck';'Provides +2 MU. Put [3] from the bank on Pandora''s Deck when it is installed. Use these bits only to pay for increasing your link. If you use any of these bits, replace them at the start of your next turn.';;'U';'Jonnie Wilder'
+137;'Parraline 5750';5;'';'Hardware-Deck';'Provides +1 MU. Put [1] from the bank on Parraline 5750 when it is installed. Use this bit only to pay for using icebreakers during runs. If you use the bit, replace it at the start of your next turn.';;'C';'Mark Collen'
+138;'PK-6089a';4;'';'Hardware-Deck';'Provides +1 MU. Put [3] from the bank on PK-6089a when it is installed. Use these bits only to pay for increasing your link. If you use any of these btis, replace them at the start of your next turn.';'"Hey, this sucker can keep your deadline from becoming a flatline" -Dog';'C';'Chris Vande Voort'
+139;'R&D Interface';4;'';'Hardware';'Whenever you access cards from R&D, access an additional card from R&D.';'"I have a friend in Oaxaca who sells to Ops in Cuernavaca who supply a tech at Arasaka..."';'C';'John Park'
+140;'Raven Microcyb Eagle';6;'';'Hardware-Deck';'Provides +1 MU. Prevents 1 Net damage each turn. Put [1] from the bank on Microcyb Eagle when it is installed. Use this bit only to pay for usingicebreakers during runs. If you use the bit, replace it at the start of your next turn.';;'C';'Mike Raabe'
+141;'Raven Microcyb Owl';11;'';'Hardware-Deck-Stealth';'Provides +1 MU. Put [3] from the bank on Microcyb Owl when it is installed. Use these bits only to pay for using icebreakers during runs, but not for usingnoisy icebreakers. If you use any of these bits, replace them at the start of your next turn.';;'U';'Douglas Shuler'
+142;'Record Reconstructor';0;'';'Hardware';': Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, shuffle the face-up pile of the Archives and then put the top two cards from that pile on R&D.';;'R';'James Allen Higgins'
+143;'Techtronica™ Utility Suit';6;'';'Hardware-Deck';'Provides +1 MU. Prevents 1 meat damage each turn. Put [5] on Techtronica™ Utility Suit when it is installed. Use these bits only to pay for increasing your link. If you use any of these bits, replace them at the start of your next turn.';;'U';'Douglas Shuler'
+144;'Tycho Mem Chip';5;'';'Hardware-Chip';'Provides +3 MU.';'"You know there was actually a time when three megabytes was considered a score to the black market." "What''s a megabyte?"';'C';'Lawrence Brown'
+145;'WuTech Mem Chip';1;'';'Hardware-Chip';'Provides +1 MU.';'"Here at WuTech, we take pride in our quest to make memory cheaper than water." - Erin Devlin, WuTech COO';'C';'Jonnie Wilder'
+146;'Zetatech Mem Chip';3;'';'Hardware-Chip';'Provides +2 MU.';'In 2019, sales dipped because of a rumor that the odd chip contained a miniature transmitter that sent the chip''s data, encrypted, to the nearest Zetatech facility.';'C';'Lawrence Brown'
+147;'ZZ22 Speed Chip';5;'';'Hardware-Chip';'Put [2] from the bank on ZZ22 Speed Chip when it is installed. Use these bits only to pay for using killers during runs. If you use any of these bits, replace them at the start of your next turn.';;'C';'Jonnie Wilder'
+148;'Access Through Alpha';9;'';'Resource-Base Link';'[1]: Base link 9';'"Wilderspace is made up of those areas of the Net that have not already been catalogued into one region or another." - Spider Murphy';'R';'Mark Collen'
+149;'Access to Arasaka';2;'';'Resource-Base Link';'[2]: Base link 4
+[2]: +1 link';;'V';'Robert McLees'
+150;'Access to Kiribati';1;'';'Resource-Base Link';'[1]: Base link 1
+[1]: +1 link';'Thrid-World security and First-World bureaucracy-together at last';'V';'Sue Ann Harkey'
+151;'Aujourd''Oui';0;'';'Resource-BBS';': Look at the top five cards of your stack. You may bring any program cards among them into your hand. Pay [1] for each card taken in this way, and show those cards to the Corp. Shuffle your stack.';;'R';'Margaret Organ-Kean'
+152;'Back Door to Hilliard';0;'';'Resource-Base Link';'[0]: Base link 2
+[3]: +1 link';'Hilliard Registrar query confirmed for ICE UNIT CERBERUS BD62663-R. "Sorry, Mr. Cerberus, that class is full, though if you obtain authorization from your proctor, you may petition for entrance."';'C';'Robert McLees'
+153;'Back Door to Orbital Air';0;'';'Resource-Base Link';'[1]: Base link 2
+[2]: +1 link';'If you think the airlines are good at losing luggage, you should see what they can do with a trace attempt.';'V';'Mark Collen'
+154;'Broker';3;'';'Resource-Connection';'Each of your turns, you may take only one action to use Broker.
+: Put [3] from the bank on Broker.
+: Take all the bits from Broker.';;'C';'Armand Cabrera'
+155;'Code Viral Cache';1;'';'Resource';'Play only if you made a successful run on HQ this turn. If the Corp forgoes actions to lose Viruscounters, two counters of your choice are not removed. The Corp may trash Viral Cache by taking an action to pay [5].';;'R';'Robert McLees'
+156;'Corporate Ally';3;'';'Resource-Connection-Unique';'Installing Corporate Ally costs 1 agenda point, in addition to the normal cost. The difficulty of allagendas is +1.';;'R';'Glenn Kim'
+157;'Crash Everett, Inventive Fixer';2;'';'Resource-Connection-Unique';'Whenever you draw one or more cards from your stack, draw an extra card; then choose one of the cards drawn and either trash it or return it to the top of your stack.';;'C';'Mike Kimble'
+158;'Danshi''s Second ID';0;'';'Resource';', : Remove up to three tags, at no cost.';'"I''ll take the complete package: apartment, ID number, passports, credit account, fake diplomas, fingerprints, retinas ..."';'U';'Mark Collen'
+159;'Databroker';0;'';'Resource-Connection';', , 1 agenda point: Gain [10].';'"Information does not want to be free; it wants to be liberated and expensive."';'U';'Craig Gilmore'
+160;'Diplomatic Immunity';1;'';'Resource-Unique';'Prevents all meat damage. The Corp may pay 1agenda point to cancel this effect until end of turn.';;'R';'Higgins & King'
+161;'Fall Guy';0;'';'Resource';': Avoid receiving a tag.';'"What I like best about you, Neal, is that you trust me."';'V';'Mike Kimble'
+162;'Field Reporter for Ice and Data';0;'';'Resource-Position';'At the end of each of your turns, gain [1] for each piece of ice the Corp rezzed during that turn.';;'R';'Dan Frazier'
+163;'Floating Runner BBS';6;'';'Resource-BBS';'Gain [1] at the start of each of your turns.';;'U';'James Allen Higgins'
+164;'Hell''s Run';0;'';'Resource';'Put [1] from the bank on Hell''s Run when it is installed. Use this bit only to pay for increasing your link. If you use the bit, replace it at the start of your next turn.';;'U';'Pete Venters'
+165;'Junkyard BBS';1;'';'Resource-BBS';', [1]: Bring the top card from your trash into your hand.';'"You wouldn''t believe the stuff some people throw away!"';'U';'Sue Ann Harkey'
+166;'Karl de Veres, Corporate Stooge';2;'';'Resource-Connection-Unique';'Gain [1] each time you make a successful run.';;'U';'Randy Gallegos'
+167;'Leland, Corporate Bodyguard';2;'';'Resource';'[1]: Prevent 1 meat damage.
+: Avoid receiving a tag.';'Friends help you move. Real friends help you move bodies.';'C';'Heather Hudson'
+168;'Loan from Chiba';0;'';'Resource';'Gain [12] when Loan from Chiba is installed. At the start of each of your turns, lose [1]. If Loan from Chiba leaves play, pay [10] or lose the game. You may trash Loan from Chiba at the end of any of your turns.';'"I hear their collection agents have organ preserva-paks. And dull scalpels."';'U';'James Allen Higgins'
+169;'N.E.T.O.';0;'';'Resource-BBS';': Look at the top four cards of your stack. You may bring any prep or resource cards among them into your hand. Pay [1] for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.';;'R';'Robert McLees'
+170;'Nomad Allies';2;'';'Resource-Conncetion';', [1]: Remove a tag, at no cost.
+: Avoid receiving a tag.';'"So, what are we calling you this month?"';'V';'Dan Frazier'
+171;'Preying Mantis';0;'';'Resource-Connection';'Each of your turns, you may choose to gain an action. If you do, suffer 1 brain damage at the end of the turn. This damage cannot be prevented.';'"First hit''s free!"';'R';'Dan Frazier'
+172;'Quest for Cattekin';4;'';'Resource-Sabotage';'At the start of each of your turns, roll a die. On a 6, trash Quest for Cattekin, and you gain an action on each of your turns for the remainder of the game. On a 1, suffer 1 brain damage. On a 2, suffer 1 Net damage. Damage from Quest for Cattekin cannot be prevented.';;'R';'Kevin Stein'
+173;'Restrictive Net Zoning';1;'';'Resource';'Choose a data fort when Restrictive Net Zoning is installed. The Corp must pay [2], in addition to the normal cost, to install ice on that fort.';'Corporation wishing to conduct business here should consider the cost of getting intrusion countermeasures to blend with the high-rez scenery of an AW-1 (Alice in Wonderland) Zone.';'U';'Jonnie Wilder'
+174;'Rigged Investments';4;'';'Resource';'Put [12] from the bank on Rigged Investments when it is installed. At the start of each of your turns, take [1] from Rigged Investments. When all the bits have been removed, trash Rigged Investments.';;'C';'Armand Cabrera'
+175;'Ronin Around';3;'';'Resource-BBS';': Look at the top five cards of your stack. You may bring any hardware cards among them into your hand. Pay [1] for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.
+, [2]: Expose any card.';;'R';'Sue Ann Harkey'
+176;'The Shell Traders';0;'';'Resource';': Choose a program or hardware card from your hand. Set that card aside, and put a number of Shell counters on it equal to its installation cost. When the last Shell counter on that card has been removed, install that card, at no cost. Remove one Shell counter from one card at the start of each of your turns.
+[1]: Remove one Shell counter from a card.';;'R';'Mike Kimble'
+177;'The Short Circuit';1;'';'Resource-BBS';', [1]: Search your stack for a program. Show that program to the Corp, and then bring it into your hand. Reshuffle your stack afterwards.';;'C';'Ray Winninger'
+178;'Short-Term Contract';1;'';'Resource-Position';'Put [12] from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract.
+: Take [2] from Short-Term Contract.';'"Contrary to popular opinion, we are productive members of society. We just moonlight as data raiders." -Spider Murphy';'C';'James Allen Higgins'
+179;'Silicon Saloon Franchise';8;'';'Resource-Position';': Gain [1] and draw one card.';'WANTED: Enterprising civilian with capital to invest in entertainment franchise. Management experience not required. Corporations, nomads, and AIs need not apply.';'R';'James Allen Higgins'
+180;'Smith''s Pawnshop';0;'';'Resource-Connection-Unique';'At the start of each of your turns, you may trash one of your other installed cards to gain [2].';;'U';'Glenn Kim'
+181;'The Springboard';0;'';'Resource-BBS';'[1]: +1 link. Use this ability only once during each trace attempt, and only after you and the Corp have revealed how much each of you spent.';'"Blow 600 eb or risk blowing your cortex - it''s your choice." - Springboard advertisement';'C';'Sue Ann Harkey'
+182;'Submarine Uplink';0;'';'Resource-Base Link';'[0]: Base link 4
+[1]: +1 link.
+You may use Submarine Uplink only during a run. Using Submarine Uplink forces you to jack out after the current encounter ends.';;'U';'John Ramirez'
+183;'Technician Lover';2;'';'Resource';': Look at the top card of R&D.';'"Enough about me. How''s work?"';'U';'Randy Gallegos'
+184;'Top Runners'' Conference';0;'';'Resource';'Gain [2] at the start of each of your turns. Trash Top Runners'' Conference when you make a run.';'"I have discovered a truly elegant codebreaking routine. Unfortunately, this chip is not large enough to contain it."';'R';'James Allen Higgins'
+185;'Trauma Team™';0;'';'Resource';'Put two Trauma counters on Trauma Team™ when it is installed.
+Trauma counter: Prevent 1 meat damage.
+: Put one Trauma counter on Trauma Team™.';;'U';'Mike Kimble'
+186;'Umbrella Policy';0;'';'Resource';': Prevent an installed program or hardwarecard from being trashed.';'"I cashed in their warranty when my utility was trashed by their own ice!" - Spider Murphy';'U';'Zak Plucinski'
+187;'Wilson, Weeflerunner Apprentice';4;'';'Resource';'Each of your turns, you may choose to gain an action, which you may use only to make a run. You cannot spend more than [3] during that run to pay for using icebreakers or increasing your link. Use this ability only once per turn and only during your turn.
+: Avoid receiving a tag.
+: Prevent any amount of meat damage.';;'U';'Dan Frazier'
+188;'AI Chief Financial Officer';5;2;'Agenda-Asset';': Shuffle cards stored in HQ and the Archives into R&D; then draw five cards.';'"I think it''s ''preferred'' stock because their AI financial adviser prefers not to risk changing the board of directors!"';'R';'Pete Venters'
+189;'Artificial Security Directors';3;1;'Agenda-Research';'Difficulty of Black Ops agendas is reduced by 1.';'"We noticed a while ago that security directors developing cyberpsychosi-becoming less and less human-increased the effectivness of our Black Ops dramatically. Unfortunately, they quickly became too unstable to be useful. This new program should solve all these problems, and more." -Erin Devlin, WuTech COO';'R';'Fellwalker & Tolen'
+190;'Bioweapons Engineering';4;3;'Agenda-Research';'Each source of meat damage inflicts +1 meat damage.';;'R';'Doug Chaffee'
+191;'Black Ice Quality Assurance';5;2;'Agenda-Research-Black Ops';'All black ice has +2 strength.';;'R';'James Allen Higgins'
+192;'Corporate Boon';6;2;'Agenda-Asset';'Put four Boon counters on Corporate Boon when you score it.
+Boon counter: Gain an action. Use this ability only once per turn and only during your turn.';;'V';'Mike Kimble'
+193;'Corporate Coup';5;2;'Agenda-Black Ops';'Put [15] from the bank on Corporate Coup when you score it.
+: Take [3] from Corporate Coup, if it has any bits.';'"Here a new style of crime became manifest: death as administrative action" -Horst Krüger';'V';'Dave Pilurs'
+194;'Corporate Downsizing';3;2;'Agenda-Gray Ops';'When you score Corporate Downsizing, show to Runner any number of agenda cards stored in HQ. Gain bits equal to twice the combined agenda points of these cards; then shuffle them into R&D.';'"Rightsizing.'' The word is ''rightsizing.''"';'V';'James Allen Higgins'
+195;'Corporate Retreat';4;3;'Agenda-Gray Ops';'You lose the following ability as soon as you rez or install any card.
+: Gain [2]';'Hard work has future payoff. Laziness pays off now.';'V';'Doug Keith'
+196;'Corporate War';3;3;'Agenda-Black Ops';'If you have [12] or more bits in your pool when you score Corporate War, gain [12]; otherwise lose all bits.';'The greatest casualty of the early corporate wars was the middle class.';'V';'Greg Staples'
+197;'Data Fort Reclamation';4;2;'Agenda-Gray Ops';'Gain [10] and choose up to four cards stored in HQ when you score Data Fort Reclamation. Create a new data fort using the cards chosen. Install the cards one at a time; you may rez them when you install them. Then, return to the bank any of the [10] not spent.';;'V';'Jonnie Wilder'
+198;'Detroit Police Contract';4;1;'Agenda-Black Ops';'Put [12] from the bank on Detroit Police Contract when you score it. Take [2] from Detroit PoliceContract, if it has any bits, at the start of each of your turns.';'Corporate security forces are infamous for employing lethal force as a means of reducing overhead.';'V';'Doug Chaffee'
+199;'Employee Empowerment';4;3;'Agenda-Gray Ops';'Your may choose to draw an additional card at the start of each of your turns.
+: Draw two cards.';'"Be glad you don''t get all the management the company pays for."';'V';'Dan Frazier'
+200;'Encryption Breakthrough';5;2;'Agenda-Research';'All code gates have +1 strength. When you score Encryption Breakthrough, reveal as many code gates as you wish, Then, gain [1] for each revealed or rezzed code gates.';;'R';'Kim Francisco'
+201;'Executive Extraction';3;1;'Agenda-Black Ops';'Difficulty of Gray Ops agendas is reduced by 1.';'Sometimes an executive gets tired of waiting for doors to open within her organization, so she asks a rival corp to open the wall for her instead.';'R';'Dan Frazier'
+202;'Genetics-Visionary Acquisition';3;1;'Agenda-Gray Ops';'Difficulty of Research agendas is reduced by 1.';'"The more valuable you are to the corporation, the harder they fight to keep you: witness these casualty figures"';'R';'Douglas Shuler'
+203;'Hostile Takeover';3;1;'Agenda-Gray Ops';'Gain [5] when you score Hostile Takeover.';'"Tell the Director I''m sorry, but I can''t seem to find any reference to ''intact'' in the mercenaries'' contract."';'V';'Douglas Shuler'
+204;'Ice Transmutation';5;3;'Agenda-Research';'Choose a piece of rezzed ice when you score Ice Transmutation. That ice now has +1 strength, and each subroutine on it is repeated once, Treat this as if each repeated subroutine appeared immediately after the original subroutine.';;'V';'T. Brian Wagner'
+205;'Main-Office Relocation';4;3;'Agenda-Gray Ops';'Hand size +2';'Corporate relocation efforts have become a much riskier proposition since the advent of the corporate war. Often, a coup''s security teams will have to arrange armored convoys to prevent thefts.';'V';'Mike Kimble'
+206;'Marine Arcology';3;2;'Agenda-Asset';', : Gain [3]';'"We could have accepted that bid, but in Nipponese wet real estate there''re ultimately two kind of construction: tsunami spec... and bait bucket."';'V';'Ernie Chan'
+207;'Netwatch Operations Office';5;2;'Agenda-Asset';': Trace2– If trace is successful, give Runner a tag.';'"These Netwatch goons are okay, but I''m thinking we should have started our own police program instead."';'V';'Christina Wald'
+208;'On-Call Solo Team';4;3;'Agenda-Asset';': Do 1 meat damage. Use this ability only if the Runner is tagged.';'"Corporate solo teams operate much like government death squads, with the primary difference being that solo teams aren''t clumsy enough to let themselves be exposed."';'V';'Matt Wilson'
+209;'Political Coup';4;2;'Agenda-Black Ops';'Put [12] from the bank on Political Coup when you score it.
+: Take [3] from Political Coup, if it has any bits.';'"Assassination is the extreme form of censorship."-George Bernard Shaw, The Rejected Statement';'V';'Ernie Chan'
+210;'Political Overthrow';9;6;'Agenda-Black Ops';': Gain [3]';'"You know, these small island countries are becoming less and less of a challenge."';'R';'Doug Chaffee'
+211;'Polymer Breakthrough';6;3;'Agenda-Research';'Gain [1] at the start of each of your turns.';;'V';'Kevin Taylor'
+212;'Priority Requisition';5;3;'Agenda-Gray Ops';'You may rez a piece of ice, at no cost, when you score Priority Requisition.';'"I just gave the big guy a rundown of last month''s security breaches, and bingo! we''ve got a new budget."';'V';'Kevin Stein'
+213;'Private Cybernet Police';7;2;'Agenda-Asset';': Trace5– If trace is successful, give Runner a tag.';'"Seen a pink panda about yay high come through this BBS lately? No? Well, here''s my hypercard anyway; if you notice anything unusual, just drop me a line."';'V';'Brian Booker'
+214;'Project Babylon';3;1;'Agenda-Black Ops';'Score 1 additional agenda point for every two advancement counters over Project Babylon''s difficulty that are on Project Babylon when you score it.';;'V';'Greg Staples'
+215;'Security Net Optimization';5;3;'Agenda-Gray Ops';'Choose a fort when you score Security Net Optimization. That fort gives all ice installed on it +1 strength.';'"Obsolete? Upgrade it... yesterday."';'V';'Chris Vande Voort'
+216;'Security Purge';3;2;'Agenda-Gray Ops';'Show the top three cards of R&D to Runner when you score Security Purge. If any of those cards areice, insall and rez them, at no cost. Trash the rest of those cards.';;'R';'Ramon Mascarenas'
+217;'Strike Force Kali';6;3;'Agenda-Asset';': Do 2 meat damage. Use this ability only if Runner is tagged.';'"What''s it mean? Kali''s a hellacious goddess of destruction with multiple hands-you figure it out."';'R';'Richard Thomas'
+218;'Subsidiary Branch';6;1;'Agenda-Gray Ops';'Gain an action during each of your turns.';'"It''s an off-site location for our creative talent; we call it ''the bomb shelter from bureaucracy.''"';'V';'Anthony Petrarca'
+219;'Superior Net Barriers';6;3;'Agenda-Research';'All walls have +1 strength. When you score Superior Net Barriers, reveal as many walls as you wish, then gain [1] for each revealed or rezzedwall.';;'R';'Ramon Mascarenas'
+220;'Tycho Extension';4;4;'Agenda-Asset';;'"Of course I fired him for playing games on duty! We can''t have our sysops idling on the job. Remember the last time a corporation tried to extend the colony? A runner edited the blueprints, and the airlock failed. Some asteroid miners spotted the bodies floating by ''bout a month ago."';'V';'Randy Gallegos'
+221;'Asp';4;4;'Ice-Sentry-Flatline';' Trace5– If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay [1].';'Oh how sharper than a serpent''s tooth is one of these suckers clamped onto the boot sector of a drive!';'C';'Mark Poole'
+222;'Ball and Chain';2;5;'Ice-Code Gate';' For the remainder of the run, Runner must pay [2] when encountering a piece of ice, in addition to any other costs, or end the run.';;'U';'Robert McLees'
+223;'Banpei';4;0;'Ice-Sentry-Killer';' Trash a program.
+ End the run.';'The survival of Bushido into cyberspace has spiritual significance to many execs.';'C';'Douglas Shuler'
+224;'Bolter Cluster';7;4;'Ice-Sentry-AP-Hellbolt';' Do 4 Net damage.
+ Runner cannot break any subroutines of the next piece of ice encountered during the run.';;'C';'Norm Dwyer'
+225;'Canis Major';0;4;'Ice-Sentry-Watchdog';' For the remainder of the run, all further ice is encountered at +2 strength.';;'U';'Ash Arnett'
+226;'Canis Minor';0;5;'Ice-Sentry-Watchdog';' For the remainder of the run, all further ice is encountered at +1 strength.';;'U';'Mark Collen'
+227;'Cerberus';11;5;'Ice-Sentry-AP-Black Ice-Hellhound';' Do 3 Net damage.
+ Trace5– If trace is successful, give Runner a Cerberus counter. Each Cerberus counter does 2 Net damage at the start of each run. Runner may remove a Cerberus counter by taking an action to spend [4].
+ End the run.';;'C';'Robert McLees'
+228;'Cinderella';8;6;'Ice-Sentry-AP-Black Ice-Firestarter';' Trace6– If trace is successful, end the run, trash a piece of hardware, and do 2 meat damage. This damage cannot be prevented.';;'U';'Kaja Foglio'
+229;'Code Corpse';10;5;'Ice-Sentry-AP-Black Ice';' Do 1 brain damage.
+ Do 1 brain damage.';'Nothing turns a wannabe into a coulda-been faster then rewriting the forebrain from the inside out.';'U';'Brian Booker'
+230;'Cortical Scanner';7;3;'Ice-Code Gate';' End the run.
+ End the run.
+ End the run.';'Your brain''s the key.';'R';'Robert McLees'
+231;'Cortical Scrub';7;3;'Ice-Sentry-AP-Black Ice-Brainwipe';' Do 1 brain damage.
+ End the run.';'"Sounds nice and hygienic, eh?"';'C';'Mark Tedin'
+232;'Crystal Wall';4;3;'Ice-Wall';' End the run.';'"Yeah, the ''crystal'' stuff is about as thick as walls get. But that just means the crunching noise are that much more gratifying when I hammer through it." - Kiyote';'C';'John Casebeer'
+233;'D'' Arc Knight';6;2;'Ice-Sentry-Killer';' Trash a program.
+ End the run.';'"Do your worst, churl! I do not fear your best killers, your fastest evasion programs, your canniest AI routines. All of these I will face and defeat."';'C';'Douglas Shuler'
+234;'Data Darts';5;3;'Ice-Sentry-AP-Hellbolt';' Do 3 Net damage.
+ Runner cannot break any subroutines of the next piece of ice encountered during the run.';;'U';'Robert McLees'
+235;'Data Naga';9;5;'Ice-Sentry-Killer';' Trash a program.
+ End the run.';'"As it says in the Upanishads, O thief: ''You have a right to your labor, but not to the fruits of your labor.''"';'U';'Kaja Foglio'
+236;'Data Raven';5;5;'Ice-Sentry';' Trace5– If trace is successful, give Runner a tag and a Data Raven counter. Each Data Raven counter gives Runner a tag at the start of each of his or her turns. Runner may remove a Data Raven counter by taking an action to pay [1].';;'U';'Matt Milberger'
+237;'Data Wall';1;0;'Ice-Wall';' End the run.';;'C';'Jonnie Wilder'
+238;'Data Wall 2.0';2;1;'Ice-Wall';' End the run.';'"Can''t those chimps in Marketing come up with a different name? This isn''t just version 2.0 - it''s a complete different program!"';'C';'Jonnie Wilder'
+239;'Endless Corridor';4;2;'Ice-Code Gate';' End the run.
+ End the run.';'The light at the end of the tunnel''s been turned off to reduce overhead.';'R';'Anthony Petrarca'
+240;'Fang';5;4;'Ice-Sentry-Pit Bull';' Trace4– If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay [2].';'"We provide guide dogs for the morally blind." - Arthur Cohn, JYD Security Enterprises';'C';'Kim Francisco'
+241;'Fang 2.0';6;5;'Ice-Sentry-Pit Bull';' Trace5– If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay [2].';;'C';'Anson Maddocks'
+242;'Fatal Attractor';1;4;'Ice-Sentry-AP-Black Ice';' The next time Runner encounters a piece of iceduring the run, do 3 Net damage unless Runner breaks all subroutines of that piece of ice.';;'R';'Mark Tedin'
+243;'Fetch 4.0.1';0;3;'Ice-Sentry-Bloodhound';' Trace3– If trace is succesful, give Runner a tag.';;'C';'Kim Francisco'
+244;'Filter';0;0;'Ice-Code Gate';' End the run.';'Friendly even to numerically challenged employees, it accepts transposed numerals in the access codes.';'C';'Daniel Gelon'
+245;'Fire Wall';5;4;'Ice-Wall';' End the run.';'"Heat without tissue damage compliments of nerve induction."';'C';'Kim Francisco'
+246;'Fragmentation Storm';6;4;'Ice-Sentry-Flatline';' Trace4– If trace is successful, end the run and trash a program, and Runner cannot run again until Runner takes an action to pay [1].';;'U';'Fellwalker & Tolen'
+247;'Haunting Inquisition';8;6;'Ice-Code Gate';' Runner cannot make another run during his or her next six actions.
+ End the run.';'"It''s just another nightmare, Johnny. Towel off and go back to sleep."';'R';'Robert McLees'
+248;'Homewrecker™';7;5;'Ice-Sentry-AP-Black Ice-Firestarter';' Trace5– If trace is successful, end the run, trash a piece of Hardware, and do 2 meat damage. This damage cannot be prevented.';'"It does more than discourage intrusions - it keep our fire department contract in the black."';'C';'Mark Tedin'
+249;'Hunter';2;5;'Ice-Sentry-Bloodhound';' Trace5– If trace is succesful, give Runner a tag.';;'U';'Kim Francisco'
+250;'Ice Pick Willie';5;1;'Ice-Sentry-Killer';' Trash a program.
+ End the run.';'"Nice ''breaker you got there. Hate to see anything happen to it."';'C';'Mark Poole'
+251;'Jack Attack';3;3;'Ice-Sentry-AP';' For the remainder of the run, Runner cannot jack out.
+ Trace5– If trace is succesful, give Runner a tag.';;'U';'Anson Maddocks'
+252;'Keeper';4;4;'Ice-Code Gate';' End the run.';'All computers wait at the same speed.';'C';'Daniel Gelon'
+253;'Laser Wire';4;2;'Ice-Wall';' Do 1 Net damage.
+ End the run.';;'R';'Kim Francisco'
+254;'Liche';14;6;'Ice-Sentry-AP-Black Ice';' Do 1 brain damage.
+ Do 1 brain damage.
+ Do 1 brain damage.
+ End the run.';;'U';'Mark Poole'
+255;'Mastiff';12;5;'Ice-Sentry-Black Ice-AP-Hellhound-Watchdog';' Do 1 brain damage.
+ Do 1 Net damage.
+ For the remainder of the run, all ice is encountered at +1 strength.
+ Trace5– If trace is successful, give Runner a Mastiff counter. Each Mastiff counter does 1 brain damage at the start of each run. Runner may remove a Mastiff counter by taking an action to spend [4].
+ End the run.';;'U';'Douglas Shuler'
+256;'Mazer';5;5;'Ice-Code Gate';' End the run.';'"Some Greek software house makes a variant that includes a killer with a minotaur motif. If you take too long to get through, it sics the minotaur on you, instead of cutting your connection. Lame cliches never die, I guess." - Spider Murphy';'U';'Daniel Gelon'
+257;'Nerve Labyrinth';6;4;'Ice-Code Gate';' Do 2 Net damage.
+ End the run.';'"If you''re authorized, it''s a smooth ride through; if you''re not, you get a brain-twist of someone else''s idea of normalcy." - Spider Murphy "But it''s a great training ground for navigating wilderspace." - Rache Bartmoss';'R';'Anson Maddocks'
+258;'Neural Blade';4;4;'Ice-Sentry-AP';' Do 1 Net damage.
+ Runner cannot break any subroutines of the next piece of encountered during the run.';;'C';'Mark Poole'
+259;'? in the ''Face';5;3;'Ice-Sentry-DecKrash';' End the run.';'"Nyuk, nyuk, nyuk ... "';'C';'Robert McLees'
+260;'Pocket Virtual Reality';7;4;'Ice-Sentry';' Trace6– If trace is succesful, give Runner a tag.
+ Trace6– If trace is succesful, give Runner a tag.
+Whenever Pocket Virtual Reality is encountered, gain [4]. Use these bits only to pay for the above traces. When the encounter ends, return to the bank any of the [4] you did not spend.';;'U';'Fellwalker & Tolen'
+261;'Quandary';2;2;'Ice-Code Gate';' End the run.';'"So many decisions, so little ti- "';'C';'Daniel Gelon'
+262;'Razor Wire';6;3;'Ice-Wall';' Do 2 Net damage.
+ End the run.';;'R';'John Casebeer'
+263;'Reinforced Wall';8;4;'Ice-Wall';' End the run.
+ End the run.';;'R';'Kim Francisco'
+264;'Rex';4;3;'Ice-Sentry-Pit Bull';' Trace3– If trace is succesful, end the run, and Runner cannopt run again until Runner takes an action to pay [2].';;'C';'Brian Booker'
+265;'Rock Is Strong';6;5;'Ice-Wall';' End the run';'"I hear we have to watch out for a new icebreaker called ''Paper is True.''"';'U';'Anson Maddocks'
+266;'Scramble';3;3;'Ice-Code Gate';' End the run.';;'C';'Daniel Gelon'
+267;'Sentinels Prime';8;4;'Ice-Sentry-Killer';' Trash a program.
+ End the run.';;'U';'Kevin Taylor'
+268;'Shock.r';1;3;'Ice-Sentry-AP-Stun';' Runner cannot break any subroutines of the next piece of ice encountered during the run, and cannot jack out until after that encounter.';;'U';'Mark Collen'
+269;'Shotgun Wire';8;5;'Ice-Wall';' Do 2 Net damage.
+ End the run.';;'R';'Kim Francisco'
+270;'Sleeper';1;1;'Ice-Code Gate';' End the run.';;'C';'Daniel Gelon'
+271;'TKO 2.0';7;4;'Ice-Sentry-AP-Knockout';' End the run, and Runner forgoes his or her next action.';'"There''s nothing like a right hook to the left side of your brain to throw you a loop." - Digital Dana';'C';'John Casebeer'
+272;'Too Many Doors';1;3;'Ice-Sentry';' Secretly spend [0], [1], or [2]; Runner does the same. Then you and Runner reveal how much each of you spent. End the run unless you spent as many bits as Runner spent.';;'R';'Pete Venters'
+273;'Triggerman';7;3;'Ice-Sentry-Killer';' Trash a program.
+ End the run.';'"Sweetheart, the emotional processing of two lonely ROM constructs isn''t allocated a megabyte of RAM in this crazy world."';'C';'Robert McLees'
+274;'Tutor';4;5;'Ice-Code Gate';' For the remainder of the run, all ice encountered has an additional subroutine, " End the run," after all other subroutines.';;'R';'Roger Coad'
+275;'Vacuum Link';3;5;'Ice-Sentry-Random';' Roll a die. If you roll a 1, 2, or 3, Runner resumes the run from that many pieces of rezzed ice back, or jacks out. If there are not that many pieces ofice, Runner returns to the first piece of ice.';;'R';'Robert McLees'
+276;'Viral 15';5;3;'Ice-Sentry';' For the remainder of the run, Runner must pay [1] to jack out, in addition to any other costs.
+ For the remainder of the run, Runner trashes an installed after passing each piece of rezzed ice, including Viral 15, unless Runner jacks out.';;'U';'Robert McLees'
+277;'Virizz';2;4;'Ice-Sentry';' For the remainder of the run, Runner must pay an additional [1] to break each ice subroutine.';;'U';'Douglas Shuler'
+278;'Wall of Ice';13;6;'Ice-Wall';' Do 2 Net damage.
+ Do 2 Net damage.
+ End the run.
+ End the run.';;'R';'Mark Tedin'
+279;'Wall of Static';3;2;'Ice-Wall';' End the run.';;'C';'Kim Francisco'
+280;'Zombie';9;4;'Ice-Sentry-AP-Black Ice';' Do 1 brain damage.
+ Do 1 brain damage.
+ End the run.';'Every time a runner encounters a Zombie again, she''s gotta be sayin'' to herself, "You used to be smarter than this!"';'C';'Pete Venters'
+281;'Accounts Receivable';5;'';'Operation-Transactions';'Gain [9]';'"If we don''ts receive payment in full by tomorrow, we''ll be obliged to repossess." "But... but the equipment''s already been installed in our employees."';'C';'Zak Plucinski'
+282;'Annual Reviews';0;'';'Operation';'Draw three cards.';'"Just between you and me, this wouldn''t be a bad time to impress the boss with your initiative."';'U';'John Ramirez'
+283;'Audit of Call Records';0;'';'Operation';'Play only if Runner attempted two or more runs during his or her last turn.
+Trace5– If trace is successful, give Runner a tag.';;'C';'Tony Luke'
+284;'Chance Observation';2;'';'Operation';'Play only if Runner attempted a run during his or her last turn.
+Trace5– If trace is successful, give Runner a tag.';;'C';'John Ramirez'
+285;'Closed Accounts';1;'';'Operation-Gray Ops';'Play only if Runner is tagged. Runner loses all bits.';'"Watch out for the blast shelters First Eurobank builds around its ATMs. They may be great for the rubes, but if some corp has marked your account as illegal, the shelter will seal you in until the cops come." -Kiyote';'U';'Randy Gallegos'
+286;'Corporate Detective Agency';1;'';'Operation';'Play only if Runner is tagged. Trash up to two resources, at no cost.';;'U';'Zak Plucinski'
+287;'Datapool® by Zetatech';1;'';'Operation-Gray Ops';'Play only if Runner is tagged. Give Runner two tags.';'The enemy of your enemy is sometimes also your enemy.';'U';'James Allen Higgins'
+288;'Day Shift';0;'';'Operation';'Draw two cards and gain [1].';'"I''m sick of punching the clock. I want to punch my supervisor."';'U';'Zak Plucinski'
+289;'Edgerunner, Inc., Temps';1;'';'Operation';'Gain three consecutive actions, which you may use only to install cards. You are not required to take all three of these actions.';'"Just remember to sweep the fort for back doors once they''re done."';'U';'Zak Plucinski'
+290;'Efficiency Experts';0;'';'Operation-Transactions';'Gain [3]';'Waste not, want not.';'C';'John Ramirez'
+291;'Falsified-Transactions Expert';1;'';'Operation';'Move up to three advancement counters from one card to another installed card that can be advanced.';;'R';'Craig Gilmore'
+292;'Management Shake-Up';10;'';'Operation';'Add three advancement counters to any combination of installed cards that can be advanced.';'Don''t be irreplaceable. If you can''t be replaced, you can''t be promoted.';'C';'Zak Plucinski'
+293;'Netwatch Credit Voucher';0;'';'Operation-Gray Ops';'Play only if Runner is tagged. Give Runner a tag, and gain [1].';;'C';'Margaret Organ-Kean'
+294;'New Blood';0;'';'Operation';'Conceal all revealed but unrezzed ice; then rearrange your installed ice by swapping pairs ofice while Runner looks away.';'"I hate newbie sysops. They always rearrange our ice into some weird configuration just because it matches some stupid question on their finals."';'R';'Mike Kimble'
+295;'Night Shift';0;'';'Operation';'Gain [2] and draw one card.';'"It wasn''t until my certification boards that it began to dawn on me that nights aren''t infinitely long."';'C';'Zak Plucinski'
+296;'Off-Site Backups';0;'';'Operation';'Bring any card from Archives into HQ.';'Data saved is eurobucks earned.';'U';'Zak Plucinski'
+297;'Overtime Incentives';4;'';'Operation';'Gain two actions.';'"Hey, the door is stuck"';'U';'Zak Plucinski'
+298;'Planning Consultants';0;'';'Operation-Gray Ops';'Look at the top five cards of R&D and arrange them in any order you choose.';'"Chance favors the prepared mind." -Sir Isaac Newton';'C';'Christina Wald'
+299;'Power Grid Overload';'X';'';'Operation-Gray Ops';'Play only if Runner is tagged. Trash X pieces ofhardware, other than cybernetics.';;'U';'Randy Gallegos'
+300;'Project Consultants';12;'';'Operation';'Add four advancement counters to any combination of installed cards that can be advanced.';;'U';'Mike Raabe'
+301;'Punitive Counterstrike';0;'';'Operation-Black Ops';'Play only if Runner is tagged. Do 2 meat damage.';'"Violence isn''t always the best approach, but it''s often the most direct." -Anonymous WuTech VP';'U';'Dave Pilurs'
+302;'Scorched Earth';3;'';'Operation-Black Ops';'Play only if Runner is tagged. Do 4 meat damage.';;'U';'Greg Staples'
+303;'Silver lining Recovery Protocol';0;'';'Operation';'If any agendas were stolen during Runner''s last turn, gain bits equil to three times the number of advancement counters those agendas had.';;'R';'Jonnie Wilder'
+304;'Systematic Layoffs';5;'';'Operation';'Add two advancement counters to any combination of installed cards that can be advanced.';'"Yes, but what have you done for us this week?"';'C';'Zak Plucinski'
+305;'Team Restructuring';1;'';'Operation';'Add one advancement counter to each of up to two installed cards that can be advanced.';'Executive ability is deciding quickly and getting somebody else to do the work.';'U';'Craig Gilmore'
+306;'Trojan Horse';2;'';'Operation';'Play only if Runner stole any agendas during his or her last turn.
+Give Runner a tag.';'The high-tech equivalent of a teller slipping a paint bomb into a money bag.';'C';'Mike Kimble'
+307;'Urban Renewal';6;'';'Operation-Black Ops';'Play only if Runner is tagged. Do 5 meat damage.';'"The paper work has been clearly posted in the basement closet of City Hall since last Thursday."';'C';'Doug Chaffee'
+308;'ACME Savings and Loan';0;0;'Node-Transaction';'Rezzing ACME S&L costs 1 agenda point, in addition to the normal cost. When you rez ACME S&L, gain [12] and trash ACME S&L. For the remainder of the game, pay [1] at the end of each of your turns, or lose the game. You can remove this effect, and score 1 agenda point, by taking an action to pay [12].';;'U';'Ramon Mascarenas'
+309;'BBS Whispering Campaign';0;4;'Node-Advertisment';'Put [16] from the bank on BBS Whispering Campaign when you rez it. When all the bits have been removed, trash BBS Whispering Campaign.
+: Take [2] from BBS Whispering Campaign.';;'C';'Kevin Taylor'
+310;'Blood Cat';6;0;'Node-AI';': Trace5– If trace is successful, give Runner a tag.';'"These break-ins are unacceptable. Put the Cat on him. I want this character tagged so tight we know when he sheds a hair!"';'R';'Larry Friedman'
+311;'Braindance Campaign';6;7;'Node-Advertisment-Gray Ops';'Put [12] from the bank on Braindance Campaign when you rez it. Take [2] from Braindance Campaign at the start of each of your turns. When all the bits have been removed, trash Braindance Campaign.';'"So it''s a subliminal. What they don''t know won''t hurt them."';'C';'Heather Hudson'
+312;'Chicago Branch';2;1;'Node-Asset';', [3]: Add two advancement counters to an installed card that can be advanced.';;'U';'Anthony Petrarca'
+313;'City Surveillance';1;2;'Node-Gray Ops';'For each card Runner draws, give Runner a tag unless Runner pays [1], in addition to any other costs, to avoid receiving that tag. You may rez City Surveillance just before the card is drawn.';;'R';'Sue Ann Harkey'
+314;'Corporate Negotiating Center';0;3;'Node-Asset';'At the start of each of your turns, gain [1] for eachagenda card stored in HQ that you show to Runner.';'"That which does not get me fired makes me more valuable to the corporation." - Dave Michaels, Microtech Special Ops';'R';'Roger Coad'
+315;'Corprunner''s Shattered Remains';2;0;'Node-Ambush';'You may advance Shattered Remains before and after you rez it. When Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it.';'"It''s not that I like screwing you up. It''s just that they got me wired so I feel the routines like bugs on my neck, so believe it, brother - I''m gonna swat!"';'U';'Mark Collen'
+316;'Cowboy Sysop';0;3;'Node';': Choose one of your installed cards to be uninstalled. Store it in HQ.';;'U';'Mark Tedin'
+317;'Data Masons';1;1;'Node';'Cost to rez walls is reduced by [2]. All walls have +1 strength.';'"''An eye on top of a pyramid''? No, that''s not our Net logo; you must have us confused with another outfit."';'R';'Sue Ann Harkey'
+318;'Department of Truth Enhancement';2;1;'Node-Gray Ops';': Put [3] from the bank on Department of Truth Enhancement.
+: Take all the bits from Department of Truth Enhancement.';'"We don''t lie. We use statistics." -Scott H. Warner, Department Coordinator';'U';'Matt Wilson'
+319;'Disinfectant, Inc.';0;4;'Node';'You may pay [1] to avoid receiving a Viruscounter. Use this ability only once each turn.';;'R';'Rob Dixon'
+320;'Encoder, Inc.';0;1;'Node';'Cost to rez code gates is reduced by [1]. All code gates have an additional subroutine, "*End the run," after all other subroutines.';;'R';'Todd Wade'
+321;'ESA Contract';0;3;'Node';': Draw two cards.';'"You know that orange toothpaste that suppresses your appetite? Yup, that came out of the space program too."';'U';'Ramon Mascarenas'
+322;'Euromarket Consortium';2;4;'Node';'Hand size +2
+, [1]: Draw two cards.';;'U';'Doug Chaffee'
+323;'Experimental AI';2;0;'Node-AI-Ambush';'You may advance Experimental AI before and after you rez it. When Runner accesses Experimental AI, it destroys one program for each advancement counter on it.';;'U';'Mike Kimble'
+324;'Fortress Architects';0;3;'Node';'Cost to install ice is reduced by [1].';'"You want us to build that? Not even God has the money to afford that!" "You''re working for Saburo Arasaka, not God."';'R';'Fellwalker & Tolen'
+325;'Hacker Tracker Central';0;2;'Node-Asset';'After each trace attempt, whether successful or not, put [1] from the bank on Hacker Tracker Central. During a trace attempt, each bit you spend from Hacker Tracker Central increases by 1 both your trace strength and your trace limit.';;'U';'Robert McLees'
+326;'Holovid Campaign';4;7;'Node-Advertisment';'Put [12] from the bank on Holovid Campaign when you rez it.Take [1] from Holovid Campaign at the start of each of your turns. When all the bits have been removed, trash Holovid Campaign.';;'C';'Zak Plucinski'
+327;'I Got a Rock';3;2;'Node-Black Ops';', 3 Agenda points: Do 15 meat damage to Runner. Use this ability only if Runner has two or more tags.';;'R';'Richard Thomas'
+328;'Information Laundering';0;1;'Node-Transaction';'You may advance Information Laundering before and after you rez it.
+, : Gain [4] for each advancement counter on Information Laundering.';'"Information wants to be clean."';'U';'Mike Kimble'
+329;'Investment Firm';1;2;'Node-Transaction';'Take [1] from Investment Firm, if it has any bits, at the start of each of your turns. Whenever [1] or more bits are added to your pool, you may put [2] from the bank on Investment Firm for each [1] you choose not to add to your pool. Effects that give you bits at the start of your turn cannot be used this way.';;'U';'Anthony Petrarca'
+330;'Krumz';0;2;'Node-AI';'Put [1] from the bank on Krumz when you rez it. Use this bit only to pay for traces. If you use this bit, replace it at the start of your next turn.';;'R';'Mark Collen'
+331;'Nevinyrral';3;5;'Node-AI-Unique';'Gain an action during each of your turns. If Nevinyrral leaves play while rezzed, you lose the game.';;'R';'Maria P. Cabardo'
+332;'Newsgroup Taunting';1;0;'Node';'At the start of each run, Runner must pay [1], in addition to any other costs, or end the run.';;'U';'Kevin Taylor'
+333;'Omniscience Foundation';0;1;'Node-Gray Ops';'Give Runner a tag at the end of each turn during which Runner received a tag.';;'U';'Rob Dixon'
+334;'Pacifica Regional AI';0;0;'Node-AI';'You may advance Pacifica Regional AI before and after you rez it.
+Regional AI advancement counter: Gain an action.';;'R';'Chris Vande Voort'
+335;'Remote Facility';5;1;'Node-Asset';'Gain an action during each of your turns.';'"While moving corporate operations to a remote location increases processing costs, it becomes easier to defend vital information against attempts at hostile acquisition." - David Samms, corporate consultant';'U';'Chris Vande Voort'
+336;'Rescheduler';0;3;'Node-Gray Ops';': Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards.';;'U';'Mike Kimble'
+337;'Rockerboy Promotion';4;3;'Node-Advertisment';'Put [15] from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion.
+: Take [3] from Rockerboy Promotion.';;'C';'John Ramirez'
+338;'Rustbelt HQ Branch';0;2;'Node-Asset';'Hand size +2';'"''Systems are heavily monitored, and computer crime treated with draconian ferocity.'' Sounds like Heaven."';'U';'Anthony Petrarca'
+339;'Schlaghund';2;4;'Node-Random-Black Ops';': Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund.';'"Remember when your mother told you not to pet strange dogs? That''s advice to live by."';'R';'L.A. Williams'
+340;'Setup!';0;0;'Node-Ambush';'When Runner accesses Setup!, it does 2 Net damage, even if it is not installed. Ignore this effect if Runner accesses it from the Archives. If Setup! is accessed from R&D, Runner must show it to you.';;'C';'Norm Dwyer'
+341;'Skälderviken SA Beta Test Site';0;2;'Node';'Cost to rez black ice is reduced by [2].';'"When you rez this, it''s very important that you have its administrator be there for it to imprint on him."';'R';'Chris Vande Voort'
+342;'Solo Squad';0;3;'Node';': Do 1 meat damage. Use this ability only if Runner is tagged.';'"We don''t break kneecaps. We derm the perps with mushroom derivative. It''s more fun, more humane ... and much more devastating to their fine reflexes and thus their careers."';'U';'Ernie Chan'
+343;'South African Mining Corp';0;'';'Node-Transaction';', , : Gain [6].';;'U';'Todd Wade'
+344;'Spinn® Public Relations';1;4;'Node-Transactions';'Take [1] from Spinn® Public Relations, if it has any bits, at the start of each of your turns.
+: put [3] from the bank on Spinn® Public Relations.';'"Of course it''s true! I saw it on the ''vid."';'C';'Todd Wade'
+345;'TRAP!';0;0;'Node-Ambush';'If you pay [4] when Runner accesses TRAP!, it does 3 Net damage and gives Runner a tag, even if TRAP! is not installed. Ignore this effect if Runner accesses it from the Archives. If TRAP! is accessed from R&D, Runner must show it to you.';;'U';'Mark Collen'
+346;'Vacant Soulkiller';2;0;'Node-Ambush';'You may advance Vacant Soulkiller before and after you rez it.When Runner accesses Vacant Soulkiller, it does 1 brain damage for each advancement counter on it.';'The original Soulkiller started as a matrix to contain artificial personalities, but Arasaka forced the original engineer to enhance the design for its own purpose.';'U';'Larry Friedman'
+347;'Vapor Ops';0;1;'Node';'You may advance Vapor Ops before and after you rez it.
+Vapor Ops advancement counter: Gain [1].
+: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced.';;'U';'Craig Hooper'
+348;'Virus Test Site';0;0;'Node-Ambush';'You may advance Virus Test Site before and after you rez it. When Runner accesses Test Site, it does 2 Net damage per advancement counter on it, or 1 Net damage if it has no counters, even if it is not installed or rezzed. Ignore this effect if Runner accesses it from the Archives. If Test Site is accessed from R&D, Runner must show it to you.';;'U';'Mark Collen'
+349;'Aardvark';0;4;'Upgrade';'Runner cannot use worms during runs on this fort. If Runner uses a worm during a run on this fort before Aardvark is rezzed, you may rez Aardvark to trash that worm, and any bits spent using that worm on the current piece of ice are lost to no effect. Runner may then use further icebreakers to break the ice.';;'R';'Fellwalker & Tolen'
+350;'Antiquated Interface Routines';2;1;'Upgrade';'All ice on this fort has +1 strength.';;'U';'Mark Collen'
+351;'Bizarre Encryption Scheme';0;1;'Upgrade';'Runner does not score any agenda (or agendas) on a run during which Bizarre Encryption Scheme is accessed; return that agenda to the fort instead. Runner scores the agenda at the start of his or her next turn if neither you nor Runner has scored it by then. This does not affect any further runs.';;'U';'Mark Collen'
+352;'Chester Mix';0;3;'Upgrade-Sysop';'Cost to install ice on this fort is reduced by [2].';'"Of course, he subscribes to the Platonic-solids school of ice-rendering, but he is cheap."';'R';'Lawrence Snelly'
+353;'Chimera';2;3;'Upgrade-Ambush';'When Runner accesses Chimera, trash a daemon.';'"Watch this. She likes to play with it before she trashes it."';'R';'Larry Friedman'
+354;'Crybaby';1;2;'Upgrade-Ambush';'When Runner accesses Crybaby, give Runner a Crying counter. Each Crying counter reduces Runner''s link by 2 during each trace attempt. Runner can remove a Crying counter by taking an action to pay [2].';;'R';'Kim Francisco'
+355;'Crystal Palace Station Grid';5;5;'Upgrade-Region';'Runner must pay [1], in addition to the normal cost, to break each subroutine of each piece of iceencountered during runs on this fort.';;'U';'R. Talsorian Games Staff'
+356;'Dedicated Response Team';1;2;'Upgrade-Ambush';'When Runner accesses Dedicated Response Team, it does 3 meat damage. Ignore this effect unless Runner is tagged.';'"Excuse me-that''s my beeper."';'U';'Pete Venters'
+357;'Dieter Esslin';0;3;'Upgrade-Sysop-Ambush';'When Runner accesses Dieter Esslin, Dieter does 1 Net damage.';'"Y''know, sometimes it worries me how much he enjoys his job."';'R';'Matt Wilson'
+358;'Dr. Dreff';0;3;'Upgrade-Sysop';'Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Pay half of that card''s rez cost, rounded down, to force Runner to encounter it; the run is not considered successful unless Runner passes that piece ofice. Trash that ice after the encounter ends. Use this ability only once during each run on this fort.';;'U';'Doug Chaffee'
+359;'Jenny Jett';1;1;'Upgrade-Sysop';'Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Install that piece of ice on this fort in the innermost position, paying an installation cost of [1] for each piece of ice already on the fort. Runner is now considered to be approaching that piece of ice. Use this ability only once during each run on this fort.';;'R';'Lawrence Snelly'
+360;'Jerusalem City Grid';2;5;'Upgrade-Region';'Cost to rez walls on this fort is reduced by [2]. Allwalls on this fort have +1 strength.';;'R';'Chris Vande Voort'
+361;'Namatoki Plaza';3;1;'Upgrade';'Rez Namatoki Plaza when you install it. Install Namatoki Plaza only if you can pay to rez it. Install only inside a subsidiary data fort. That fort may have an additional agenda or node installed inside it. If Namatoki Plaza leaves play while installed, and this results in the fort having too many agendasand nodes installed inside it, trash one of thoseagendas or nodes.';;'U';'Chris Vande Voort'
+362;'New Galveston City Grid';1;4;'Upgrade-Region';'All nodes and other upgrades installed inside this fort cost [2] to trash, in addition to the normal cost.';;'R';'Craig Hooper'
+363;'Olivia Salazar';0;1;'Upgrade-Sysop';'For half cost, rounded down, rez a piece of iceinstalled on this fort. Derez that ice at the end of the run. Use this ability only once during each run on this fort.';;'U';'Randy Gallegos'
+364;'Omni Kismet, Ph.D.';0;3;'Upgrade-Sysop';'Swap a piece of unrezzed ice on this fort with anice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort.';'"What the...?! That wasn''t in the plans!" -Epitaph';'R';'Douglas Shuler'
+365;'Paris City Grid';2;6;'Upgrade-Region';'Put [3] from the bank on Paris City Grid when you rez it. Use these bits only to pay for traces made during runs on this fort. If you use any of these bits, replace them at the start of your next turn.';;'U';'Mark Tedin'
+366;'Red Herrings';1;1;'Upgrade';'Runner must pay [5], in addition to any other costs, to steal agendas accessed from this fort, even on the run during which Runner trashes Red Herrings.';'"Frack! It''s easier to find things on my floor than in this mess."';'U';'Mark Collen'
+367;'Rio de Janeiro City Grid';1;6;'Upgrade-Region-Random';'Roll a die whenever Runner passes a piece of rezzed ice during a run on this fort. On a 1, end the run.';'"There''s a new jungle in Brazil-the rusted-wire maze of telecom retrotech. Prepare to have your line dropped, and ..."';'U';'Pete Venters'
+368;'Roving Submarine';3;0;'Upgrade-Region';'Install only inside a subsidiary data fort. This fort may be run only if you installed or advanced a card inside or on this fort during your last turn.';;'R';'Doug Chaffee'
+369;'Singapore City Grid';0;5;'Upgrade-Region';'Swap a piece of unrezzed ice on this fort with anice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort.';;'R';'Mike Kimble'
+370;'Tesseract Fort Construction';2;3;'Upgrade';'All ice on this fort has an additional subroutine, "End the run unless Runner pays [1]" after all other subroutines.';'"So are you upside down or am I?" "Depends on how you look at it."';'R';'Mark Tedin'
+371;'Tokyo-Chiba Infighting';0;6;'Upgrade-Region';'Gain [2] after each unsuccessful run on this fort.';;'R';'Mark Collen'
+372;'Turbeau Delacroix';1;2;'Upgrade-Sysop-Ambush';'Trace10– If trace is successful, give Runner a tag. Use this ability only when Runner accesses Turbeau Delacroix, and only once during each run on this fort.';;'U';'L.A. Williams'
+373;'Twenty-Four-Hour Surveillance';1;2;'Upgrade';'During runs on this fort, Runner cannot use bits from stealth sources.';;'R';'Mark Collen'
+374;'Washington, D.C., City Grid';7;6;'Upgrade-Region';'The difficulty of agendas installed inside this fort is reduced by 1.';;'R';'Chris Vande Voort'
